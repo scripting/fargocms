@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<opml version="2.0">
+	<head>
+		<title>cmsprefs.opml</title>
+		<dateModified>&lt;%dateModified%></dateModified>
+		<expansionState></expansionState>
+		<vertScrollState>1</vertScrollState>
+		<windowTop>300</windowTop>
+		<windowLeft>700</windowLeft>
+		<windowBottom>900</windowBottom>
+		<windowRight>1500</windowRight>
+		</head>
+	<body text="cmsprefs.opml">
+		<outline text="#menus">
+			<outline text="scriptingNews">
+				<outline created="Tue, 01 May 2012 23:13:08 GMT" pgfnum="9135" text="&lt;%menuTitle%&gt;">
+					<outline collapse="true" created="Wed, 26 Jun 2013 12:28:05 GMT" text="Links">
+						<outline created="Tue, 01 May 2012 15:19:56 GMT" pgfnum="9095" text="Linkblog" type="link" url="http://scripting.com/?tab=links"></outline>
+						<outline created="Sun, 04 Aug 2013 18:55:46 GMT" name="aboutThisSite" text="About this site" type="link" url="http://scripting.com/?tab=about"></outline>
+						<outline created="Tue, 03 Sep 2013 01:23:45 GMT" text="Comment Guidelines" type="link" url="http://scripting.com/2013/08/25/howCommentsWorkOnScriptingNews"></outline>
+						<outline created="Thu, 26 Jun 2014 12:06:51 GMT" text="-"></outline>
+						<outline created="Sat, 01 Mar 2014 21:49:13 GMT" text="Fargo Blog" type="link" url="http://fargo.io/blog/"></outline>
+						<outline created="Thu, 08 Aug 2013 15:40:51 GMT" name="archive" text="Archive" type="link" url="http://scripting.com/archive"></outline>
+						<outline created="Tue, 01 May 2012 15:19:21 GMT" pgfnum="9094" text="Dave" type="link" url="http://davewiner.com/"></outline>
+						</outline>
+					<outline created="Tue, 28 Oct 2014 02:13:04 GMT" text="Apps">
+						<outline created="Thu, 23 Jul 2015 11:57:35 GMT" text="Fargo" type="link" url="http://fargo.io/"></outline>
+						<outline created="Thu, 23 Jul 2015 11:57:36 GMT" text="-"></outline>
+						<outline created="Mon, 15 Sep 2014 02:49:56 GMT" text="Radio3" type="link" url="http://radio3.io/"></outline>
+						<outline created="Thu, 26 Jun 2014 12:06:05 GMT" text="Happy Friends" type="link" url="http://happyfriends.camp/"></outline>
+						<outline created="Wed, 02 Jul 2014 19:30:03 GMT" text="Little Card Editor" type="link" url="http://littlecardeditor.com/"></outline>
+						<outline created="Thu, 26 Jun 2014 12:06:08 GMT" text="Little Pork Chop" type="link" url="http://little.porkchop.io/"></outline>
+						<outline created="Wed, 14 May 2014 13:52:23 GMT" text="Little Outliner" type="link" url="http://littleoutliner.com/"></outline>
+						<outline created="Thu, 23 Jul 2015 11:58:05 GMT" text="-"></outline>
+						<outline created="Wed, 09 Jul 2014 15:21:27 GMT" text="Thesaurus Land" type="link" url="http://thesaurus.land/"></outline>
+						<outline created="Thu, 23 Jul 2015 11:58:09 GMT" text="-"></outline>
+						<outline created="Thu, 16 Apr 2015 15:54:42 GMT" text="Podcatch" type="link" url="http://podcatch.com/"></outline>
+						<outline created="Mon, 22 Jun 2015 13:40:18 GMT" text="TechBlast" type="link" url="http://mlbriver.com/"></outline>
+						<outline created="Mon, 22 Jun 2015 13:40:18 GMT" text="MLB River" type="link" url="http://mlbriver.com/"></outline>
+						</outline>
+					<outline created="Mon, 17 Mar 2014 02:24:09 GMT" text="Stories" type="stories"></outline>
+					<outline collapse="true" created="Mon, 19 Aug 2013 23:43:05 GMT" text="Fargo">
+						<outline created="Tue, 03 Sep 2013 01:28:02 GMT" name="useFargoNow" text="Use Fargo now" type="link" url="http://fargo.io/"></outline>
+						<outline text="-"></outline>
+						<outline created="Thu, 20 Feb 2014 18:09:45 GMT" text="What is Fargo?" type="link" url="http://fargo.io/docs/whatIsFargo.html"></outline>
+						<outline created="Thu, 22 Aug 2013 17:00:17 GMT" text="Fargo 2 intro" type="link" url="http://fargo.io/docs/whatsComingInFargo2.html"></outline>
+						<outline created="Thu, 22 Aug 2013 17:00:20 GMT" text="-"></outline>
+						<outline created="Thu, 22 Aug 2013 16:59:26 GMT" text="Outliner howto" type="link" url="http://fargo.io/docs/outlinerHowto.html"></outline>
+						<outline created="Thu, 22 Aug 2013 16:59:31 GMT" text="Using Fargo" type="link" url="http://fargo.io/docs/fargo/"></outline>
+						<outline created="Thu, 22 Aug 2013 17:03:05 GMT" text="Content Management" type="link" url="http://fargo.io/docs/contentManagement/"></outline>
+						<outline created="Thu, 22 Aug 2013 16:59:54 GMT" text="Blogging with Fargo" type="link" url="http://fargo.io/docs/blogging/index.html"></outline>
+						<outline created="Thu, 22 Aug 2013 17:03:10 GMT" text="Workgroups" type="link" url="http://fargo.io/docs/workgroup.html"></outline>
+						<outline created="Sat, 30 Nov 2013 19:21:55 GMT" text="Presentations" type="link" url="http://fargo.io/docs/presentations.html"></outline>
+						<outline created="Thu, 22 Aug 2013 17:00:34 GMT" text="-"></outline>
+						<outline created="Mon, 30 Dec 2013 01:20:07 GMT" text="Fargo Blog" type="link" url="http://fargo.io/blog/"></outline>
+						<outline text="-"></outline>
+						<outline created="Wed, 03 Jul 2013 19:31:03 GMT" text="Small Picture, Inc." type="link" url="http://smallpicture.com/"></outline>
+						</outline>
+					<outline collapse="true" created="Wed, 26 Jun 2013 22:58:27 GMT" text="Rivers">
+						<outline created="Wed, 26 Jun 2013 22:58:35 GMT" name="movies" text="Movies" type="link" url="http://radio3.io/rivers/?panel=movies"></outline>
+						<outline name="nba" text="NBA" type="link" url="http://radio3.io/rivers/?panel=nba"></outline>
+						<outline created="Wed, 26 Jun 2013 22:58:35 GMT" name="podcasts" text="Podcasts" type="link" url="http://radio3.io/rivers/?panel=podcasts"></outline>
+						<outline created="Wed, 26 Jun 2013 22:58:35 GMT" name="tech" text="Tech" type="link" url="http://radio3.io/rivers/?panel=tech"></outline>
+						<outline created="Wed, 26 Jun 2013 22:58:35 GMT" name="nyt" text="NYT" type="link" url="http://radio3.io/rivers/?panel=nyt"></outline>
+						<outline created="Wed, 26 Jun 2013 22:58:35 GMT" name="world" text="World" type="link" url="http://radio3.io/rivers/?panel=world"></outline>
+						<outline created="Wed, 26 Jun 2013 22:58:35 GMT" name="personal" text="Dave" type="link" url="http://radio3.io/rivers/?panel=dave"></outline>
+						</outline>
+					<outline collapse="true" text="Repos">
+						<outline created="Sun, 22 Mar 2015 22:46:07 GMT" text="MyWord Editor" type="link" url="https://github.com/scripting/myWordEditor"></outline>
+						<outline created="Sat, 03 Jan 2015 19:01:52 GMT" text="-"></outline>
+						<outline created="Sat, 03 Jan 2015 19:01:49 GMT" text="NodeStorage" type="link" url="https://github.com/scripting/nodeStorage"></outline>
+						<outline created="Sat, 03 Jan 2015 19:01:49 GMT" text="NodeRunner" type="link" url="https://github.com/scripting/nodeStorage"></outline>
+						<outline created="Sat, 03 Jan 2015 19:01:49 GMT" text="PagePark" type="link" url="https://github.com/scripting/pagepark"></outline>
+						<outline created="Mon, 12 Jan 2015 02:34:03 GMT" text="tweetsToRss" type="link" url="https://github.com/scripting/tweetsToRss"></outline>
+						<outline created="Sat, 03 Jan 2015 19:01:52 GMT" text="-"></outline>
+						<outline created="Wed, 04 Jun 2014 19:55:51 GMT" text="River4" type="link" url="https://github.com/scripting/river4"></outline>
+						<outline created="Thu, 06 Mar 2014 15:44:00 GMT" text="Fargo Publisher" type="link" url="https://github.com/scripting/fargoPublisher"></outline>
+						<outline created="Thu, 06 Mar 2014 15:44:06 GMT" text="Fargo Templates" type="link" url="https://github.com/scripting/fargoTemplates"></outline>
+						<outline created="Wed, 16 Apr 2014 15:04:09 GMT" text="JavaScript IAC" type="link" url="https://github.com/scripting/interAppComm"></outline>
+						<outline created="Fri, 18 Apr 2014 02:37:08 GMT" text="WordPress-to-OPML" type="link" url="https://github.com/scripting/wp2opml"></outline>
+						<outline name="concord" text="Concord outliner" type="link" url="https://github.com/scripting/concord"></outline>
+						<outline text="Frontier" type="link" url="https://github.com/scripting/frontier"></outline>
+						<outline text="-"></outline>
+						<outline name="dave" text="Me" type="link" url="https://github.com/scripting"></outline>
+						</outline>
+					</outline>
+				</outline>
+			<outline text="streamSiteMenu">
+				<outline created="Tue, 01 May 2012 23:13:08 GMT" pgfnum="9135" text="&lt;%menuTitle%&gt;">
+					<outline collapse="true" created="Wed, 26 Jun 2013 12:28:05 GMT" text="Links">
+						<outline created="Sun, 04 Aug 2013 18:55:46 GMT" name="aboutThisSite" text="About this site" type="link" url="http://scripting.com/about"></outline>
+						<outline created="Tue, 25 Mar 2014 17:12:26 GMT" text="-"></outline>
+						<outline created="Tue, 01 May 2012 15:19:56 GMT" pgfnum="9095" text="Linkblog" type="link" url="http://links.scripting.com/"></outline>
+						<outline created="Mon, 06 Jan 2014 23:06:35 GMT" text="Archive" type="link" url="http://scripting.com/archive.html"></outline>
+						<outline created="Tue, 25 Mar 2014 17:12:23 GMT" text="-"></outline>
+						<outline created="Tue, 03 Sep 2013 01:23:45 GMT" text="Comment guidelines" type="link" url="http://scripting.com/2013/08/25/howCommentsWorkOnScriptingNews"></outline>
+						<outline created="Tue, 25 Mar 2014 17:09:24 GMT" text="Open comments window" type="link" url="javascript:openDisqusThread ()"></outline>
+						<outline created="Tue, 25 Mar 2014 17:12:26 GMT" text="-"></outline>
+						<outline created="Sun, 18 May 2014 16:09:34 GMT" text="Turn off images" type="link" url="javascript:turnOffImagesCommand ();"></outline>
+						<outline created="Sun, 18 May 2014 16:13:30 GMT" text="Turn images back on" type="link" url="javascript:turnOnImagesCommand ()"></outline>
+						<outline created="Thu, 26 Jun 2014 12:06:51 GMT" text="-"></outline>
+						<outline created="Mon, 15 Sep 2014 02:49:56 GMT" text="Radio3" type="link" url="http://radio3.io/"></outline>
+						<outline created="Thu, 26 Jun 2014 12:06:05 GMT" text="Happy Friends" type="link" url="http://happyfriends.camp/"></outline>
+						<outline created="Thu, 26 Jun 2014 12:06:08 GMT" text="Little Pork Chop" type="link" url="http://little.porkchop.io/"></outline>
+						<outline created="Wed, 02 Jul 2014 19:30:03 GMT" text="Little Card Editor" type="link" url="http://littlecardeditor.com/"></outline>
+						<outline created="Wed, 14 May 2014 13:52:23 GMT" text="Little Outliner" type="link" url="http://littleoutliner.com/"></outline>
+						<outline created="Wed, 09 Jul 2014 15:21:27 GMT" text="Thesaurus Land" type="link" url="http://thesaurus.land/"></outline>
+						<outline created="Sun, 18 May 2014 16:09:32 GMT" text="-"></outline>
+						<outline created="Sat, 01 Mar 2014 21:49:13 GMT" text="Fargo Blog" type="link" url="http://fargo.io/blog/"></outline>
+						<outline created="Thu, 08 Aug 2013 15:40:51 GMT" name="archive" text="Archive" type="link" url="http://scripting.com/archive"></outline>
+						<outline created="Tue, 01 May 2012 15:19:21 GMT" pgfnum="9094" text="Dave" type="link" url="http://rss.scripting.com/browser.html?panel=dave"></outline>
+						</outline>
+					<outline collapse="true" created="Mon, 19 Aug 2013 23:43:05 GMT" text="Fargo">
+						<outline created="Tue, 03 Sep 2013 01:28:02 GMT" name="useFargoNow" text="Use Fargo now" type="link" url="http://fargo.io/"></outline>
+						<outline text="-"></outline>
+						<outline created="Thu, 20 Feb 2014 18:09:45 GMT" text="What is Fargo?" type="link" url="http://fargo.io/docs/whatIsFargo.html"></outline>
+						<outline created="Thu, 22 Aug 2013 17:00:17 GMT" text="Fargo 2 intro" type="link" url="http://fargo.io/docs/whatsComingInFargo2.html"></outline>
+						<outline created="Thu, 22 Aug 2013 17:00:20 GMT" text="-"></outline>
+						<outline created="Thu, 22 Aug 2013 16:59:26 GMT" text="Outliner howto" type="link" url="http://fargo.io/docs/outlinerHowto.html"></outline>
+						<outline created="Thu, 22 Aug 2013 16:59:31 GMT" text="Using Fargo" type="link" url="http://fargo.io/docs/fargo/"></outline>
+						<outline created="Thu, 22 Aug 2013 17:03:05 GMT" text="Content Management" type="link" url="http://fargo.io/docs/contentManagement/"></outline>
+						<outline created="Thu, 22 Aug 2013 16:59:54 GMT" text="Blogging with Fargo" type="link" url="http://fargo.io/docs/blogging/index.html"></outline>
+						<outline created="Thu, 22 Aug 2013 17:03:10 GMT" text="Workgroups" type="link" url="http://fargo.io/docs/workgroup.html"></outline>
+						<outline created="Sat, 30 Nov 2013 19:21:55 GMT" text="Presentations" type="link" url="http://fargo.io/docs/presentations.html"></outline>
+						<outline created="Thu, 22 May 2014 22:59:31 GMT" text="-"></outline>
+						<outline created="Thu, 22 May 2014 22:59:32 GMT" text="How to ask for help" type="link" url="http://scripting.com/2014/03/19/howToAskForHelpWithSoftware.html"></outline>
+						<outline created="Thu, 22 Aug 2013 17:00:34 GMT" text="-"></outline>
+						<outline created="Mon, 30 Dec 2013 01:20:07 GMT" text="Fargo Blog" type="link" url="http://fargo.io/blog/"></outline>
+						<outline text="-"></outline>
+						<outline created="Wed, 03 Jul 2013 19:31:03 GMT" text="Small Picture, Inc." type="link" url="http://smallpicture.com/"></outline>
+						</outline>
+					<outline collapse="true" created="Wed, 26 Jun 2013 22:58:27 GMT" text="Rivers">
+						<outline created="Wed, 26 Jun 2013 22:58:35 GMT" name="movies" text="Movies" type="link" url="http://radio3.io/rivers/?panel=movies"></outline>
+						<outline name="nba" text="NBA" type="link" url="http://radio3.io/rivers/?panel=nba"></outline>
+						<outline created="Wed, 26 Jun 2013 22:58:35 GMT" name="podcasts" text="Podcasts" type="link" url="http://radio3.io/rivers/?panel=podcasts"></outline>
+						<outline created="Wed, 26 Jun 2013 22:58:35 GMT" name="tech" text="Tech" type="link" url="http://radio3.io/rivers/?panel=tech"></outline>
+						<outline created="Wed, 26 Jun 2013 22:58:35 GMT" name="nyt" text="NYT" type="link" url="http://radio3.io/rivers/?panel=nyt"></outline>
+						<outline created="Wed, 26 Jun 2013 22:58:35 GMT" name="world" text="World" type="link" url="http://radio3.io/rivers/?panel=world"></outline>
+						<outline created="Wed, 26 Jun 2013 22:58:35 GMT" name="personal" text="Dave" type="link" url="http://radio3.io/rivers/?panel=dave"></outline>
+						</outline>
+					<outline collapse="true" text="Github">
+						<outline created="Wed, 04 Jun 2014 19:55:51 GMT" text="River4" type="link" url="https://github.com/scripting/river4"></outline>
+						<outline created="Thu, 06 Mar 2014 15:44:00 GMT" text="Fargo Publisher" type="link" url="https://github.com/scripting/fargoPublisher"></outline>
+						<outline created="Thu, 06 Mar 2014 15:44:06 GMT" text="Fargo Templates" type="link" url="https://github.com/scripting/fargoTemplates"></outline>
+						<outline created="Wed, 16 Apr 2014 15:04:09 GMT" text="JavaScript IAC" type="link" url="https://github.com/scripting/interAppComm"></outline>
+						<outline created="Fri, 18 Apr 2014 02:37:08 GMT" text="WordPress-to-OPML" type="link" url="https://github.com/scripting/wp2opml"></outline>
+						<outline name="concord" text="Concord outliner" type="link" url="https://github.com/scripting/concord"></outline>
+						<outline text="Frontier" type="link" url="https://github.com/scripting/frontier"></outline>
+						<outline text="-"></outline>
+						<outline name="dave" text="Me" type="link" url="https://github.com/scripting"></outline>
+						</outline>
+					<outline created="Mon, 17 Mar 2014 01:39:44 GMT" text="&lt;div class=&quot;divNavSocialMediaLinks&quot;&gt;&lt;%socialMediaLinks ()%&gt;&lt;/div&gt;"></outline>
+					</outline>
+				</outline>
+			<outline created="Mon, 30 Dec 2013 01:17:38 GMT" text="fargoDocs">
+				<outline created="Tue, 01 May 2012 23:13:08 GMT" name="menutitle" pgfnum="9135" text="&lt;%menutitle%&gt;">
+					<outline created="Mon, 19 Aug 2013 23:43:05 GMT" text="Topics">
+						<outline created="Mon, 30 Dec 2013 01:20:07 GMT" text="Fargo Blog" type="link" url="http://fargo.io/blog/"></outline>
+						<outline created="Thu, 22 Aug 2013 17:00:20 GMT" text="-"></outline>
+						<outline created="Tue, 09 Dec 2014 20:28:26 GMT" text="What is Fargo?" type="link" url="http://fargo.io/docs/whatIsFargo.html"></outline>
+						<outline created="Tue, 09 Dec 2014 20:28:29 GMT" text="-"></outline>
+						<outline created="Thu, 22 Aug 2013 17:00:17 GMT" text="Fargo Docs Home" type="link" url="http://fargo.io/docs/"></outline>
+						<outline created="Thu, 22 Aug 2013 16:59:26 GMT" text="Outliner howto" type="link" url="http://fargo.io/docs/outlinerHowto.html"></outline>
+						<outline created="Thu, 22 Aug 2013 16:59:31 GMT" text="Using Fargo" type="link" url="http://fargo.io/docs/fargo/"></outline>
+						<outline created="Thu, 22 Aug 2013 16:59:54 GMT" text="Blogging with Fargo" type="link" url="http://fargo.io/docs/blogging/index.html"></outline>
+						<outline created="Sat, 30 Nov 2013 19:21:55 GMT" text="Presentations" type="link" url="http://fargo.io/docs/presentations.html"></outline>
+						<outline created="Wed, 14 May 2014 13:52:23 GMT" text="Little Outliner" type="link" url="http://littleoutliner.com/"></outline>
+						<outline created="Thu, 22 Aug 2013 17:00:34 GMT" text="-"></outline>
+						<outline created="Thu, 22 May 2014 22:59:32 GMT" text="How to ask for help" type="link" url="http://scripting.com/2014/03/19/howToAskForHelpWithSoftware.html"></outline>
+						<outline created="Thu, 22 Aug 2013 17:00:34 GMT" text="-"></outline>
+						<outline created="Thu, 22 Aug 2013 17:00:17 GMT" text="Fargo 2 intro" type="link" url="http://fargo.io/docs/whatsComingInFargo2.html"></outline>
+						<outline created="Thu, 22 Aug 2013 17:00:34 GMT" text="-"></outline>
+						<outline created="Thu, 22 Aug 2013 17:03:10 GMT" text="Workgroups" type="link" url="http://fargo.io/docs/workgroup.html"></outline>
+						<outline created="Thu, 22 Aug 2013 17:03:05 GMT" text="Content Management" type="link" url="http://fargo.io/docs/contentManagement/intro.html"></outline>
+						<outline created="Thu, 22 Aug 2013 17:03:14 GMT" text="-"></outline>
+						<outline created="Thu, 22 Aug 2013 17:00:34 GMT" text="Troubleshooting" type="link" url="http://fargo.io/docs/troubleshooting.html"></outline>
+						<outline created="Thu, 22 Aug 2013 17:00:34 GMT" text="Support" type="link" url="http://fargo.io/docs/support.html"></outline>
+						</outline>
+					<outline collapse="true" text="Github">
+						<outline created="Wed, 04 Jun 2014 19:55:51 GMT" text="River4" type="link" url="https://github.com/scripting/river4"></outline>
+						<outline created="Thu, 06 Mar 2014 15:44:00 GMT" text="Fargo Publisher" type="link" url="https://github.com/scripting/fargoPublisher"></outline>
+						<outline created="Thu, 06 Mar 2014 15:44:06 GMT" text="Fargo Templates" type="link" url="https://github.com/scripting/fargoTemplates"></outline>
+						<outline created="Wed, 16 Apr 2014 15:04:09 GMT" text="JavaScript IAC" type="link" url="https://github.com/scripting/interAppComm"></outline>
+						<outline created="Fri, 18 Apr 2014 02:37:08 GMT" text="WordPress-to-OPML" type="link" url="https://github.com/scripting/wp2opml"></outline>
+						<outline name="concord" text="Concord outliner" type="link" url="https://github.com/scripting/concord"></outline>
+						<outline text="Frontier" type="link" url="https://github.com/scripting/frontier"></outline>
+						<outline text="-"></outline>
+						<outline name="dave" text="Me" type="link" url="https://github.com/scripting"></outline>
+						</outline>
+					<outline created="Sun, 25 Aug 2013 22:48:07 GMT" text="Fargo" type="link" url="http://fargo.io/"></outline>
+					</outline>
+				</outline>
+			<outline created="Sun, 05 Jan 2014 23:39:49 GMT" text="riverLab">
+				<outline created="Tue, 01 May 2012 23:13:08 GMT" pgfnum="9135" text="Scripting News">
+					<outline collapse="true" created="Wed, 26 Jun 2013 12:28:05 GMT" text="Links">
+						<outline created="Tue, 01 May 2012 15:19:56 GMT" pgfnum="9095" text="Linkblog" type="link" url="http://links.scripting.com/"></outline>
+						<outline created="Sun, 04 Aug 2013 18:55:46 GMT" name="aboutThisSite" text="About this site" type="link" url="http://scripting.com/about"></outline>
+						<outline created="Tue, 03 Sep 2013 01:23:45 GMT" text="Comment Guidelines" type="link" url="http://scripting.com/2013/08/25/howCommentsWorkOnScriptingNews"></outline>
+						<outline created="Wed, 09 Jul 2014 15:21:27 GMT" text="Thesaurus Land" type="link" url="http://thesaurus.land/"></outline>
+						<outline created="Wed, 14 May 2014 13:52:23 GMT" text="Little Outliner" type="link" url="http://littleoutliner.com/"></outline>
+						<outline created="Sat, 01 Mar 2014 21:49:13 GMT" text="Fargo Blog" type="link" url="http://fargo.io/blog/"></outline>
+						<outline created="Thu, 08 Aug 2013 15:40:51 GMT" name="archive" text="Archive" type="link" url="http://scripting.com/archive"></outline>
+						</outline>
+					<outline collapse="true" created="Mon, 19 Aug 2013 23:43:05 GMT" text="Fargo">
+						<outline created="Tue, 03 Sep 2013 01:28:02 GMT" name="useFargoNow" text="Use Fargo now" type="link" url="http://fargo.io/"></outline>
+						<outline text="-"></outline>
+						<outline created="Thu, 20 Feb 2014 18:09:45 GMT" text="What is Fargo?" type="link" url="http://fargo.io/docs/whatIsFargo.html"></outline>
+						<outline created="Thu, 22 Aug 2013 17:00:17 GMT" text="Fargo 2 intro" type="link" url="http://fargo.io/docs/whatsComingInFargo2.html"></outline>
+						<outline created="Thu, 22 Aug 2013 17:00:20 GMT" text="-"></outline>
+						<outline created="Thu, 22 Aug 2013 16:59:26 GMT" text="Outliner howto" type="link" url="http://fargo.io/docs/outlinerHowto.html"></outline>
+						<outline created="Thu, 22 Aug 2013 16:59:31 GMT" text="Using Fargo" type="link" url="http://fargo.io/docs/fargo/"></outline>
+						<outline created="Thu, 22 Aug 2013 17:03:05 GMT" text="Content Management" type="link" url="http://fargo.io/docs/contentManagement/"></outline>
+						<outline created="Thu, 22 Aug 2013 16:59:54 GMT" text="Blogging with Fargo" type="link" url="http://fargo.io/docs/blogging/index.html"></outline>
+						<outline created="Thu, 22 Aug 2013 17:03:10 GMT" text="Workgroups" type="link" url="http://fargo.io/docs/workgroup.html"></outline>
+						<outline created="Sat, 30 Nov 2013 19:21:55 GMT" text="Presentations" type="link" url="http://fargo.io/docs/presentations.html"></outline>
+						<outline created="Thu, 22 Aug 2013 17:00:34 GMT" text="-"></outline>
+						<outline created="Mon, 30 Dec 2013 01:20:07 GMT" text="Fargo Blog" type="link" url="http://fargo.io/blog/"></outline>
+						<outline text="-"></outline>
+						<outline created="Wed, 03 Jul 2013 19:31:03 GMT" text="Small Picture, Inc." type="link" url="http://smallpicture.com/"></outline>
+						</outline>
+					<outline collapse="true" text="Github">
+						<outline created="Wed, 04 Jun 2014 19:55:51 GMT" text="River4" type="link" url="https://github.com/scripting/river4"></outline>
+						<outline created="Thu, 06 Mar 2014 15:44:00 GMT" text="Fargo Publisher" type="link" url="https://github.com/scripting/fargoPublisher"></outline>
+						<outline created="Thu, 06 Mar 2014 15:44:06 GMT" text="Fargo Templates" type="link" url="https://github.com/scripting/fargoTemplates"></outline>
+						<outline name="concord" text="Concord outliner" type="link" url="https://github.com/scripting/concord"></outline>
+						<outline text="Frontier" type="link" url="https://github.com/scripting/frontier"></outline>
+						<outline text="-"></outline>
+						<outline name="dave" text="Me" type="link" url="https://github.com/scripting"></outline>
+						</outline>
+					<outline created="Tue, 01 May 2012 15:19:21 GMT" pgfnum="9094" text="Dave" type="link" url="http://davewiner.com/"></outline>
+					</outline>
+				</outline>
+			</outline>
+		<outline created="Sat, 04 Jan 2014 14:34:47 GMT" name="css" text="#style">
+			<outline created="Fri, 23 May 2014 02:34:03 GMT" isComment="true" text="No indent in stream templates">
+				<outline text=".divLevel {">
+					<outline text="margin-left: 0;"></outline>
+					<outline text="}"></outline>
+					</outline>
+				</outline>
+			<outline created="Tue, 20 May 2014 16:31:54 GMT" text="Small-Pict Brand">
+				<outline text=".navbar .brand {">
+					<outline text="font-family: &quot;Rancho&quot; !important;"></outline>
+					<outline text="font-size: 36px !important;"></outline>
+					<outline created="Tue, 20 May 2014 16:37:29 GMT" text="font-weight: normal !important;"></outline>
+					<outline text="}"></outline>
+					</outline>
+				</outline>
+			<outline created="Sat, 04 Jan 2014 18:13:01 GMT" text="markdown-globals">
+				<outline created="Sat, 04 Jan 2014 15:31:45 GMT" name="divfargomarkdown" text=".divFargoMarkdown {">
+					<outline created="Sat, 04 Jan 2014 15:32:04 GMT" text="font-size: 20px;"></outline>
+					<outline created="Sat, 04 Jan 2014 15:32:15 GMT" name="lineheight150" text="line-height: 150%;"></outline>
+					<outline created="Sat, 04 Jan 2014 15:32:00 GMT" text="}"></outline>
+					</outline>
+				<outline created="Sat, 04 Jan 2014 15:31:45 GMT" name="divfargomarkdown" text=".divFargoMarkdown li {">
+					<outline created="Sat, 04 Jan 2014 15:32:04 GMT" text="font-size: 20px;"></outline>
+					<outline created="Sat, 04 Jan 2014 15:32:15 GMT" name="lineheight150" text="line-height: 150%;"></outline>
+					<outline created="Sat, 04 Jan 2014 15:32:00 GMT" text="}"></outline>
+					</outline>
+				</outline>
+			<outline created="Sat, 22 Mar 2014 00:12:01 GMT" text="my-stream-globals">
+				<outline created="Sat, 22 Mar 2014 00:12:09 GMT" text=".divStreamDayText {">
+					<outline created="Sat, 22 Mar 2014 00:12:57 GMT" text="font-size: 20px;"></outline>
+					<outline created="Sat, 22 Mar 2014 00:12:53 GMT" text="}"></outline>
+					</outline>
+				<outline text=".divStreamDayHead {">
+					<outline text="font-family: 'Ubuntu', sans-serif;"></outline>
+					<outline text="font-size: 36px;"></outline>
+					<outline text="font-weight: bold;"></outline>
+					<outline text="margin-top: .1em;"></outline>
+					<outline text="margin-bottom: .60em;"></outline>
+					<outline text="-webkit-margin-after: .60em;"></outline>
+					<outline text="}"></outline>
+					</outline>
+				</outline>
+			</outline>
+		<outline text="#glossary">
+			<outline text="&quot;bootswatch&quot;">
+				<outline text="&lt;a href=&quot;http://bootswatch.com/&quot;&gt;Bootswatch&lt;/a&gt;"></outline>
+				</outline>
+			<outline created="Thu, 13 Mar 2014 21:51:07 GMT" text="&quot;curly&quot;">
+				<outline created="Thu, 13 Mar 2014 21:51:10 GMT" text="&lt;a href=&quot;http://scripting.com/wavs/curly1.wav&quot;&gt;&lt;img src=&quot;http://static.scripting.com/larryKing/images/2014/03/13/curly.gif&quot; width=&quot;53&quot; height=&quot;63&quot; border=&quot;0&quot; alt=&quot;I'm trying to think but nothing happens!&quot;&gt;&lt;/a&gt;"></outline>
+				</outline>
+			<outline created="Wed, 09 Jul 2014 13:48:19 GMT" text="&quot;Dave Winer&quot;">
+				<outline created="Wed, 09 Jul 2014 13:48:24 GMT" text="&lt;a href=&quot;http://davewiner.com/&quot;&gt;Dave Winer&lt;/a&gt;"></outline>
+				</outline>
+			<outline created="Sun, 19 Oct 2014 20:00:40 GMT" text="&quot;DaveNet&quot;">
+				<outline created="Sun, 19 Oct 2014 20:00:42 GMT" text="&lt;a href=&quot;http://scripting.com/davenet/&quot;&gt;DaveNet&lt;/a&gt;"></outline>
+				</outline>
+			<outline created="Fri, 30 May 2014 14:16:26 GMT" text="&quot;Emoji&quot;">
+				<outline created="Fri, 30 May 2014 14:16:30 GMT" text="&lt;a href=&quot;http://en.wikipedia.org/wiki/Emoji&quot;&gt;Emoji&lt;/a&gt;"></outline>
+				</outline>
+			<outline created="Sat, 30 Nov 2013 23:41:20 GMT" text="&quot;fargo&quot;">
+				<outline created="Sat, 30 Nov 2013 23:41:22 GMT" text="&lt;a href=&quot;http://fargo.io/&quot;&gt;Fargo&lt;/a&gt;"></outline>
+				</outline>
+			<outline created="Thu, 27 Feb 2014 16:33:49 GMT" text="&quot;Fargo Publisher&quot;">
+				<outline created="Thu, 27 Feb 2014 16:33:53 GMT" text="&lt;a href=&quot;https://github.com/scripting/fargoPublisher&quot;&gt;Fargo Publisher&lt;/a&gt;"></outline>
+				</outline>
+			<outline text="&quot;font awesome&quot;">
+				<outline text="&lt;a href=&quot;http://fortawesome.github.io/Font-Awesome/&quot;&gt;Font Awesome&lt;/a&gt;"></outline>
+				</outline>
+			<outline created="Fri, 06 Mar 2015 15:24:49 GMT" text="&quot;MyWord Editor&quot;">
+				<outline created="Fri, 06 Mar 2015 15:24:51 GMT" text="&lt;a href=&quot;http://myword.io/editor/&quot;&gt;MyWord Editor&lt;/a&gt;"></outline>
+				</outline>
+			<outline created="Sun, 12 Apr 2015 14:43:52 GMT" text="&quot;Scoble&quot;">
+				<outline created="Sun, 12 Apr 2015 14:43:57 GMT" text="&lt;a href=&quot;http://scoble.org/&quot;&gt;Scoble&lt;/a&gt;"></outline>
+				</outline>
+			<outline created="Sun, 12 Apr 2015 14:43:52 GMT" text="&quot;Robert Scoble&quot;">
+				<outline created="Sun, 12 Apr 2015 14:43:57 GMT" text="&lt;a href=&quot;http://scoble.org/&quot;&gt;Robert Scoble&lt;/a&gt;"></outline>
+				</outline>
+			<outline created="Tue, 02 Dec 2014 17:00:01 GMT" text="&quot;Frontier&quot;">
+				<outline created="Tue, 02 Dec 2014 17:00:04 GMT" text="&lt;a href=&quot;http://en.wikipedia.org/wiki/UserLand_Software&quot;&gt;Frontier&lt;/a&gt;"></outline>
+				</outline>
+			<outline created="Tue, 24 Jun 2014 13:28:24 GMT" text="&quot;Happy Friends&quot;">
+				<outline text="&lt;a href=&quot;http://happyfriends.camp/&quot;&gt;Happy Friends&lt;/a&gt;"></outline>
+				</outline>
+			<outline created="Tue, 08 Jul 2014 21:45:16 GMT" text="&quot;happy word friends&quot;">
+				<outline created="Tue, 08 Jul 2014 21:45:21 GMT" text="&lt;a href=&quot;http://thesaurus.land/&quot;&gt;Happy Word Friends&lt;/a&gt;"></outline>
+				</outline>
+			<outline created="Tue, 01 Jul 2014 20:42:02 GMT" text="&quot;Little Card Editor&quot;">
+				<outline created="Tue, 01 Jul 2014 20:42:07 GMT" text="&lt;a href=&quot;http://littlecardeditor.com/&quot;&gt;Little Card Editor&lt;/a&gt;"></outline>
+				</outline>
+			<outline created="Fri, 22 Aug 2014 15:06:57 GMT" text="&quot;Little Facebook Editor&quot;">
+				<outline created="Fri, 22 Aug 2014 15:06:58 GMT" text="&lt;a href=&quot;http://littlecardeditor.com/text/&quot;&gt;Little Facebook Editor&lt;/a&gt;"></outline>
+				</outline>
+			<outline created="Tue, 13 May 2014 15:12:21 GMT" text="&quot;little outliner&quot;">
+				<outline created="Tue, 13 May 2014 15:12:25 GMT" text="&lt;a href=&quot;http://littleoutliner.com/&quot;&gt;Little Outliner&lt;/a&gt;"></outline>
+				</outline>
+			<outline created="Sun, 08 Jun 2014 18:30:26 GMT" text="&quot;little pork chop&quot;">
+				<outline text="&lt;a href=&quot;http://pork.io/&quot;&gt;Little Pork Chop&lt;/a&gt;"></outline>
+				</outline>
+			<outline created="Thu, 19 Feb 2015 15:51:55 GMT" text="&quot;liveblog.co&quot;">
+				<outline created="Thu, 19 Feb 2015 15:51:58 GMT" text="&lt;a href=&quot;http://liveblog.co/&quot;&gt;liveblog.co&lt;/a&gt;"></outline>
+				</outline>
+			<outline created="Fri, 05 Sep 2014 12:35:35 GMT" text="&quot;Markdown&quot;">
+				<outline created="Fri, 05 Sep 2014 12:35:38 GMT" text="&lt;a href=&quot;http://daringfireball.net/projects/markdown/&quot;&gt;Markdown&lt;/a&gt;"></outline>
+				</outline>
+			<outline created="Fri, 13 Feb 2015 18:35:53 GMT" text="&quot;myword.io&quot;">
+				<outline created="Fri, 13 Feb 2015 18:35:57 GMT" text="&lt;a href=&quot;http://myword.io/&quot;&gt;myword.io&lt;/a&gt;"></outline>
+				</outline>
+			<outline created="Fri, 13 Feb 2015 18:35:53 GMT" text="&quot;MyWord&quot;">
+				<outline created="Fri, 13 Feb 2015 18:35:57 GMT" text="&lt;a href=&quot;http://myword.io/editor/&quot;&gt;MyWord&lt;/a&gt;"></outline>
+				</outline>
+			<outline created="Tue, 24 Feb 2015 22:37:12 GMT" text="&quot;Narrate Your Work&quot;">
+				<outline created="Tue, 24 Feb 2015 22:37:17 GMT" text="&lt;a href=&quot;http://scripting.com/stories/2009/08/09/narrateYourWork.html&quot;&gt;Narrate Your Work&lt;/a&gt;"></outline>
+				</outline>
+			<outline created="Wed, 24 Jun 2015 23:52:12 GMT" text="&quot;outlineBrowser&quot;">
+				<outline text="&lt;a href=&quot;https://github.com/scripting/outlineBrowser&quot;&gt;outlineBrowser&lt;/a&gt;"></outline>
+				</outline>
+			<outline created="Fri, 17 Apr 2015 13:15:00 GMT" text="&quot;podcatch.com&quot;">
+				<outline text="&lt;a href=&quot;http://podcatch.com/&quot;&gt;Podcatch.com&lt;/a&gt;"></outline>
+				</outline>
+			<outline created="Sun, 28 Dec 2014 19:19:03 GMT" text="&quot;Noderunner&quot;">
+				<outline created="Sun, 28 Dec 2014 19:19:08 GMT" text="&lt;a href=&quot;https://github.com/scripting/noderunner&quot;&gt;Noderunner&lt;/a&gt;"></outline>
+				</outline>
+			<outline created="Sun, 28 Dec 2014 19:19:03 GMT" text="&quot;Nodestorage&quot;">
+				<outline created="Sun, 28 Dec 2014 19:19:08 GMT" text="&lt;a href=&quot;https://github.com/scripting/nodeStorage&quot;&gt;nodeStorage&lt;/a&gt;"></outline>
+				</outline>
+			<outline created="Fri, 16 May 2014 15:01:48 GMT" text="&quot;only steal from the best&quot;">
+				<outline created="Fri, 16 May 2014 15:01:54 GMT" text="&lt;a href=&quot;http://scripting.com/stories/2011/09/09/onlyStealFromTheBest.html&quot;&gt;only steal from the best&lt;/a&gt;"></outline>
+				</outline>
+			<outline created="Fri, 31 Oct 2014 15:07:52 GMT" text="&quot;OPML&quot;">
+				<outline created="Fri, 31 Oct 2014 15:07:55 GMT" text="&lt;a href=&quot;http://dev.opml.org/spec2.html&quot;&gt;OPML&lt;/a&gt;"></outline>
+				</outline>
+			<outline created="Wed, 24 Jun 2015 23:58:32 GMT" text="&quot;OPML Editor&quot;">
+				<outline text="&lt;a href=&quot;http://home.opml.org/&quot;&gt;OPML Editor&lt;/a&gt;"></outline>
+				</outline>
+			<outline created="Sun, 28 Dec 2014 19:19:03 GMT" text="&quot;PagePark&quot;">
+				<outline created="Sun, 28 Dec 2014 19:19:08 GMT" text="&lt;a href=&quot;https://github.com/scripting/pagepark&quot;&gt;PagePark&lt;/a&gt;"></outline>
+				</outline>
+			<outline created="Sat, 01 Nov 2014 17:51:01 GMT" text="&quot;Radio UserLand&quot;">
+				<outline created="Sat, 01 Nov 2014 17:51:05 GMT" text="&lt;a href=&quot;http://radio.userland.com/&quot;&gt;Radio UserLand&lt;/a&gt;"></outline>
+				</outline>
+			<outline created="Mon, 01 Sep 2014 19:56:54 GMT" text="&quot;Radio3&quot;">
+				<outline created="Mon, 01 Sep 2014 19:56:55 GMT" text="&lt;a href=&quot;http://radio3.io/&quot;&gt;Radio3&lt;/a&gt;"></outline>
+				</outline>
+			<outline created="Sun, 05 Oct 2014 21:35:26 GMT" text="&quot;River.js&quot;">
+				<outline created="Sun, 05 Oct 2014 21:35:29 GMT" text="&lt;a href=&quot;http://riverjs.org/&quot;&gt;River.js&lt;/a&gt;"></outline>
+				</outline>
+			<outline text="&quot;river3&quot;">
+				<outline text="&lt;a href=&quot;http://river3.opml.org/&quot;&gt;River3&lt;/a&gt;"></outline>
+				</outline>
+			<outline created="Fri, 06 Jun 2014 11:14:21 GMT" text="&quot;river4&quot;">
+				<outline created="Fri, 06 Jun 2014 11:14:24 GMT" text="&lt;a href=&quot;https://github.com/scripting/river4&quot;&gt;River4&lt;/a&gt;"></outline>
+				</outline>
+			<outline created="Wed, 24 Jun 2015 23:51:42 GMT" text="&quot;riverBrowser&quot;">
+				<outline created="Wed, 24 Jun 2015 23:51:46 GMT" text="&lt;a href=&quot;https://github.com/scripting/riverBrowser&quot;&gt;riverBrowser&lt;/a&gt;"></outline>
+				</outline>
+			<outline created="Fri, 20 Jun 2014 00:12:38 GMT" text="&quot;RSS&quot;">
+				<outline created="Fri, 20 Jun 2014 00:12:42 GMT" text="&lt;a href=&quot;http://cyber.law.harvard.edu/rss/rss.html&quot;&gt;RSS&lt;/a&gt;"></outline>
+				</outline>
+			<outline created="Fri, 20 Jun 2014 00:12:38 GMT" text="&quot;RSS 2.0&quot;">
+				<outline created="Fri, 20 Jun 2014 00:12:42 GMT" text="&lt;a href=&quot;http://cyber.law.harvard.edu/rss/rss.html&quot;&gt;RSS 2.0&lt;/a&gt;"></outline>
+				</outline>
+			<outline text="&quot;scripting news&quot;">
+				<outline text="&lt;a href=&quot;http://scripting.com/&quot;&gt;Scripting News&lt;/a&gt;"></outline>
+				</outline>
+			<outline text="&quot;small picture&quot;">
+				<outline text="&lt;a href=&quot;http://smallpicture.com/&quot;&gt;Small Picture&lt;/a&gt;"></outline>
+				</outline>
+			<outline created="Sun, 10 Aug 2014 18:29:21 GMT" text="&quot;software snacks&quot;">
+				<outline created="Sun, 10 Aug 2014 18:29:25 GMT" text="&lt;a href=&quot;http://scripting.com/2014/07/16/myLatestSoftwareSnacks.html&quot;&gt;software snacks&lt;/a&gt;"></outline>
+				</outline>
+			<outline created="Wed, 09 Jul 2014 13:45:44 GMT" text="&quot;thesaurus.land&quot;">
+				<outline created="Wed, 09 Jul 2014 13:45:46 GMT" text="&lt;a href=&quot;http://thesaurus.land/&quot;&gt;thesaurus.land&lt;/a&gt;"></outline>
+				</outline>
+			<outline text="&quot;Thesaurus Land&quot;">
+				<outline created="Wed, 09 Jul 2014 13:45:46 GMT" text="&lt;a href=&quot;http://thesaurus.land/&quot;&gt;Thesaurus Land&lt;/a&gt;"></outline>
+				</outline>
+			<outline text="&quot;trex&quot;">
+				<outline text="&lt;a href=&quot;http://smallpicture.com/trexDocs.html&quot;&gt;Trex&lt;/a&gt;"></outline>
+				</outline>
+			<outline created="Thu, 21 Aug 2014 15:03:35 GMT" text="&quot;XML-RPC&quot;">
+				<outline created="Thu, 21 Aug 2014 15:03:38 GMT" text="&lt;a href=&quot;http://xmlrpc.scripting.com/&quot;&gt;XML-RPC&lt;/a&gt;"></outline>
+				</outline>
+			</outline>
+		<outline created="Tue, 31 Dec 2013 04:50:23 GMT" text="#macros">
+			<outline created="Tue, 31 Dec 2013 04:50:25 GMT" text="hello">
+				<outline created="Tue, 31 Dec 2013 04:50:38 GMT" text="return (&quot;Hello there!&quot;)"></outline>
+				</outline>
+			<outline created="Fri, 27 Dec 2013 22:57:08 GMT" text="sumArgs">
+				<outline created="Fri, 27 Dec 2013 22:57:53 GMT" text="var  sum = 0;"></outline>
+				<outline text="for (var i = 0; i &lt; sumArgs.arguments.length; i++) {">
+					<outline text="sum += sumArgs.arguments [i];"></outline>
+					<outline text="}"></outline>
+					</outline>
+				<outline created="Fri, 27 Dec 2013 22:57:56 GMT" text="return (sum);"></outline>
+				</outline>
+			<outline created="Mon, 24 Feb 2014 00:27:07 GMT" text="listConcordKeystrokes">
+				<outline created="Mon, 24 Feb 2014 00:29:06 GMT" text="var s = &quot;&lt;table cellpadding=\&quot;5\&quot; style=\&quot;font-family: Arial; font-size: 16px;\&quot;&gt;&quot;;"></outline>
+				<outline created="Mon, 24 Feb 2014 00:27:09 GMT" text="for (var x in concordKeystrokes) {">
+					<outline created="Mon, 24 Feb 2014 00:28:19 GMT" text="s += &quot;&lt;tr&gt;&lt;td&gt;&quot; + x + &quot;&lt;/td&gt;&lt;td&gt;&quot; + concordKeystrokes [x] + &quot;&lt;/td&gt;&lt;/tr&gt;&quot;;"></outline>
+					<outline created="Mon, 24 Feb 2014 00:28:12 GMT" text="}"></outline>
+					</outline>
+				<outline created="Mon, 24 Feb 2014 00:29:14 GMT" text="return (s + &quot;&lt;/table&gt;&quot;);"></outline>
+				</outline>
+			</outline>
+		<outline text="#bootstrapTheme &quot;readable&quot;"></outline>
+		<outline text="#googleAnalyticsID &quot;UA-39531990-1&quot;"></outline>
+		<outline created="Mon, 17 Feb 2014 23:08:02 GMT" text="#authorGithubAccount &quot;scripting&quot;"></outline>
+		<outline created="Mon, 17 Mar 2014 03:30:57 GMT" text="#authorLinkedInAccount &quot;scripting&quot;"></outline>
+		<outline created="Sun, 23 Feb 2014 15:27:49 GMT" text="#flPgfPermaLinks &quot;true&quot;"></outline>
+		<outline text="#siteTimeZone &quot;-5&quot;"></outline>
+		<outline created="Tue, 20 May 2014 12:40:22 GMT" text="#streamVersion &quot;2&quot;"></outline>
+		<outline created="Mon, 03 Feb 2014 17:03:52 GMT" text="#flHitCounter &quot;true&quot;"></outline>
+		<outline created="Mon, 03 Feb 2014 22:19:27 GMT" text="#counterServer &quot;http://counter.fargo.io/counter&quot;"></outline>
+		<outline created="Mon, 03 Feb 2014 17:04:00 GMT" name="counter" text="#counterGroup &quot;scripting&quot;"></outline>
+		<outline created="Mon, 25 Nov 2013 17:36:30 GMT" text="#domain &quot;smallpict.com&quot;"></outline>
+		</body>
+	</opml>
