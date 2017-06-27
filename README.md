@@ -36,5 +36,5 @@ Here I will list things that do not work that used to work. Mostly things that a
 
 3. RSS feed for blogs.
 
-The source code for the original Fargo CMS is here, should we eventually want to port the remaining bits. 
+The source code for the original Fargo CMS is <a href="https://github.com/scripting/fargocms/tree/master/originalcode">here</a>, should we eventually want to port the remaining bits. 
 
