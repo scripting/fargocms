@@ -2,13 +2,14 @@
 	"name": "fargocms", 
 	"description": "Let's see how much of Fargo CMS we can get running server-side in Node.",
 	"author": "Dave Winer <dave@smallpicture.com>",
-	"version": "0.4.1",
+	"version": "0.4.7",
 	"scripts": {
 		"start": "node fargocms.js"
 		},
 	"main": "fargocms.js",
 	"files": [
-		"fargocms.js"
+		"fargocms.js",
+		"cmsPrefs.opml"
 		],
 	"repository": {
 		"type" : "git",

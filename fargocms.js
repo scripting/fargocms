@@ -1,7 +1,8 @@
-const myProductName = "fargocms", myVersion = "0.4.1"; 
+const myProductName = "fargocms", myVersion = "0.4.7"; 
 
 exports.init = init;
 exports.render = render;
+exports.httpRequest = httpRequest;
 
 const utils = require ("daveutils");
 const request = require ("request"); 
@@ -75,6 +76,9 @@ var config = {
 	urlTwitterEmbedServer: "http://twitter.happyfriends.camp/"
 	};
 
+var outlineCache = new Object ();
+
+
 function httpRequest (url, callback) {
 	var options = {
 		url: url,
@@ -96,6 +100,28 @@ function httpRequestOpml (url, callback) {
 			callback (data);
 			}
 		});
+	}
+function httpRequestOutline (url, callback) {
+	if (outlineCache [url] !== undefined) {
+		callback (outlineCache [url].theOutline);
+		}
+	else {
+		httpRequestOpml (url, function (opmltext) {
+			if (opmltext !== undefined) {
+				opmlToJs.parse (opmltext, function (theOutline) {
+					outlineCache [url] = {
+						theOutline: theOutline
+						};
+					if (callback !== undefined) {
+						callback (theOutline);
+						}
+					});
+				}
+			else {
+				callback (undefined);
+				}
+			});
+		}
 	}
 function emojiProcess (s) {
 	return (emoji.emojify (s));
@@ -999,7 +1025,7 @@ function xmlGetBlogHomePage (pagetable, adrbeingrendered) { //1/6/14 by DW
 			
 			add ("<div class=\"divBlogHomeItem\">"); indentlevel++;
 			var createdAtt = xmlGetAttribute (adrx, "created");
-			add ("<div class=\"divBlogHomeItemTitle\"><a href=\"" + mypath + "\">" + textatt + "</a></div>");
+			add ("<div class=\"divBlogHomeItemTitle\"><a href=\"" + pagetable.opmlLink + mypath + "\">" + textatt + "</a></div>"); //6/27/17M by DW -- add pagetable.opmlLink
 			add (getStoryText (pagetable, adrx));
 			if (createdAtt != undefined) {
 				var datestring = cmsFormatDate (createdAtt, pagetable.storyDateFormat, pagetable.siteTimeZone);
@@ -1610,10 +1636,11 @@ function cmsRenderPage (tab, xstruct, path, package) {
 					return (val.toString ());
 					}
 				catch (err) {
-					if (!utils.endsWith (err.message, " is not defined")) {
+					
+					if (s != "bodytext") {
 						console.log ("processMacros error on \"" + s + "\": " + err.message);
 						}
-					console.log ("processMacros error on \"" + s + "\": " + err.message);
+					
 					return (macroStart + s + macroEnd); //pass it back unchanged
 					}
 				};
@@ -2011,8 +2038,12 @@ function cmsGetDavePrefs (callback) {
 	}
 function cmsGetPrefs (callback) {
 	readOpmlFile (config.cmsPrefsOpmlPath, function (theOutline) {
-		cmsGlobalPrefs = new Object ();
-		xmlGatherPoundItems (theOutline.opml.body, cmsGlobalPrefs);
+		if (theOutline !== undefined) { //it's not an error if cmsPrefs.opml is not present
+			cmsGlobalPrefs = new Object ();
+			xmlGatherPoundItems (theOutline.opml.body, cmsGlobalPrefs);
+			}
+		
+		
 		if (callback !== undefined) {
 			callback ();
 			}
@@ -2028,29 +2059,32 @@ function init (config, callback) {
 			});
 		});
 	}
-function render (config, f, path, callback) {
+function render (appConfig, urlOpml, path, callback) {
 	var starttime = new Date ();
-	var outlineName = utils.stringNthField (path, "/", 2);
-	path = utils.stringDelete (path, 1, outlineName.length + 1);
 	
-	console.log ("fargocms.render: f == " + f + ", outlineName == " + outlineName + ", path == " + path);
 	
 	if (utils.endsWith (path, "/")) {
 		path = utils.stringDelete (path, path.length, 1);
 		}
 	path = utils.stringPopExtension (path);
 	
-	readNamedOutline (outlineName, function (theOutline) {
-		var package = new Array (), htmltext;
-		var tab = {
-			publicUrl: undefined
-			};
-		
-		htmltext = cmsRenderPage (tab, theOutline, path, package);
-		console.log ("fargocms.render: \"" + path + "\", " +  htmltext.length + " chars, " + utils.secondsSince (starttime) + " secs.");
-		callback (htmltext);
-		fs.writeFile ("test.html", htmltext);
-		
+	httpRequestOutline (urlOpml, function (theOutline) {
+		if (theOutline == undefined) {
+			callback (undefined);
+			}
+		else {
+			var package = new Array (), htmltext;
+			
+			if (appConfig.baseUrl !== undefined) { //use this instead of whatever else is there
+				theOutline.opml.head.link = appConfig.baseUrl;
+				}
+			
+			htmltext = cmsRenderPage (appConfig, theOutline, path, package);
+			console.log ("fargocms.render: \"" + path + "\", " +  htmltext.length + " chars, " + utils.secondsSince (starttime) + " secs.");
+			callback (htmltext);
+			fs.writeFile ("test.html", htmltext);
+			
+			}
 		});
 	
 	}
