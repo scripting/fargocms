@@ -1,0 +1,19 @@
+{ 
+	"name": "fargoCmsServer", 
+	"description": "Viewing outlines created with Fargo.",
+	"author": "Dave Winer <dave@smallpicture.com>",
+	"version": "0.4.0",
+	"scripts": {
+		"start": "node fargocms.js"
+		},
+	"main": "fargocms.js",
+	"dependencies" : {
+		"davehttp": "*",
+		"daveutils": "*",
+		"fargocms": "*"
+		}, 
+	"license": "MIT",
+	"engines": { 
+		"node": "*"
+		}
+	}
