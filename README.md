@@ -14,9 +14,7 @@ One thing remained in Fargo that was not replicated elsewhere, the content manag
 
 Here are some examples of websites that are deployed using this package.
 
-
-
-1. A <a href="http://fargocms.com/dave/2014/01/01/whatWouldAPublicNotepadDo.html">blog post</a> from Scripting News. You can click around on the navigation links, they should work. 
+1. A <a href="http://fargocms.com/dave/2013/12/08/theIndianaJonesMethod.html">blog post</a> from Scripting News. You can click around on the navigation links, they should work. 
 
 2. The <a href="http://fargocms.com/happy/">home page</a> of the Happy Friends docs site. 
 
